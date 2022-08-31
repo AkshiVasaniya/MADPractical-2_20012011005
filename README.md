@@ -14,7 +14,7 @@
 
 
 
-onStart
+2. onStart
 
 
 
@@ -41,7 +41,7 @@ onStart
 
 
 
-onRestart
+3. onRestart
 
 
 
@@ -63,7 +63,7 @@ onRestart
 
 
 
-onPause
+4. onPause
 
 
 
@@ -87,7 +87,7 @@ onPause
 
 
 
-onStop
+5. onStop
 
 
 
@@ -110,7 +110,7 @@ onStop
 
 
 
-onDestroy
+6. onDestroy
 
 
 
