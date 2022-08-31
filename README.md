@@ -1,10 +1,49 @@
 # MADPractical-2_20012011005
 
 onCreate
+
+
+
 ![1](https://user-images.githubusercontent.com/112560938/187692256-e7f5c2c9-8f0e-4cd1-94ad-c3fd73caa4fc.png)
 
+
+
+
+
+
+
+
+
 onStart
+
+
+
+
+
+
+
+
 ![2](https://user-images.githubusercontent.com/112560938/187692390-67076ac5-2e85-4527-a493-e52df6656573.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 onRestart
 ![3](https://user-images.githubusercontent.com/112560938/187692482-110a8868-82ad-4990-b125-bba78be34367.png)
